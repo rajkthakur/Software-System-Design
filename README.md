@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Software System Design
 
-You can use the [editor on GitHub](https://github.com/rajkthakur/Software-System-Design/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repo contains the solution for all the Design questions covered in our group [https://www.facebook.com/groups/1482332218566185] 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository would also list the major project that has been taken up by our group and all its associated contributors and the details of who owns what in terms of feature ownership and collaborations.
 
-### Markdown
+### Make your first commit in the system_designers.md where you can mention your name and why you have joined this Software System Design community.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Drop us a slack message in our #general channel on slack 
+[https://join.slack.com/t/ssd-discussion/shared_invite/zt-fmbchwlx-SIZWc8VWZ3vJKiMqCPMHgw]
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rajkthakur/Software-System-Design/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
