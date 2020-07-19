@@ -4,7 +4,7 @@ This repo contains the solution for all the Design questions covered in our grou
 
 This repository would also list the major project that has been taken up by our group and all its associated contributors and the details of who owns what in terms of feature ownership and collaborations.
 
-Make your first commit in the ## system_designers.md where you can mention your name and why you have joined this Software System Design community.
+Make your first commit in the system_designers.md where you can mention your name and why you have joined this Software System Design community.(https://github.com/rajkthakur/Software-System-Design/blob/master/system_designers.md)
 
 ## Drop us a slack message "Hi There! I am new rockstar and excited to join this awesome community!!" in our #general channel on slack 
 [https://join.slack.com/t/ssd-discussion/shared_invite/zt-fmbchwlx-SIZWc8VWZ3vJKiMqCPMHgw]
